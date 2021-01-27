@@ -1,4 +1,3 @@
-theme: minima
 title: My First Trial at GitHub Pages
 author: Lhamu Tsering
 email: boutlhamu@gmail.com
@@ -12,3 +11,4 @@ medium blog: https://lhamu.medium.com/
 github_username:  Yeshi341
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
